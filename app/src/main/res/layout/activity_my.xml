@@ -16,4 +16,10 @@
         android:text="@string/button_send"
         android:onClick="sendMessage"/>
 
+    <Button
+        android:layout_width="300px"
+        android:layout_height="400px"
+        android:text="ShowImage"
+        android:onClick="displayImage"/>
 </LinearLayout>
+
